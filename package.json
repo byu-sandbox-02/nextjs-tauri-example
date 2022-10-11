@@ -1,5 +1,5 @@
 {
-  "name": "tauri-app",
+  "name": "nextjs-tauri-example",
   "private": true,
   "version": "0.0.0",
   "scripts": {
